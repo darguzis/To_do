@@ -30,10 +30,4 @@ This program allows you to add, view, and remove tasks from your personal task l
 Choose an option (1-4):
 ```
 
-## Requirements
 
-- Python 3.x
-
-## License
-
-This project is licensed under the MIT License.
